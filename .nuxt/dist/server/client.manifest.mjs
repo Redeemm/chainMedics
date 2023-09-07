@@ -1,0 +1,1 @@
+export { default } from "file:///Users/auric/Development/nuxt-app/chainMedics/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
