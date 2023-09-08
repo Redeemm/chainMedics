@@ -7,10 +7,10 @@
                 </nuxt-link>
             </v-app-bar-title>
 
-            <v-btn rounded="xl" color="cyan-lighten-3" elevation="0">Connect Wallet</v-btn>
+            <v-btn class="btn" variant="outlined" rounded="xl" color="blue" elevation="0">Connect Wallet</v-btn>
         </v-app-bar>
     </div>
 </template>
-<script setup>
-// const logo = ref('./assets/logo.png');
-</script>
+<style>
+
+</style>
