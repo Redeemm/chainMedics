@@ -59,13 +59,14 @@
                     <v-card class="mx-auto my-12" max-width="374">
                         <img src="~/assets/card1.jpg" height="250" cover alt="">
                         <v-card-item>
-                            <v-card-title>
-                                Features of Chain Medics
+                            <v-card-title class="text-center">
+                                Interoperability
                             </v-card-title>
                             <v-card-text>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed quod corrupti iste. Ad sunt
-                                eveniet cupiditate similique dicta quia enim amet placeat, iusto cumque perspiciatis
-                                deleniti recusandae quibusdam voluptatum excepturi.
+                                The project's focus on interoperability between healthcare providers and hospitals is a
+                                critical technological feature. It implies that the project aims to create a unified system
+                                that can work seamlessly with various existing healthcare systems and databases, enhancing
+                                its practicality and potential for adoption.
                             </v-card-text>
                         </v-card-item>
                     </v-card>
@@ -74,28 +75,28 @@
                     <v-card class="mx-auto my-12" max-width="374">
                         <img src="~/assets/card1.jpg" height="250" cover alt="">
                         <v-card-item>
-                            <v-card-title>
-                                Features of Chain Medics
+                            <v-card-title class="text-center">
+                                Decentralisation
                             </v-card-title>
                             <v-card-text>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed quod corrupti iste. Ad sunt
-                                eveniet cupiditate similique dicta quia enim amet placeat, iusto cumque perspiciatis
-                                deleniti recusandae quibusdam voluptatum excepturi.
+                                The grand scheme of decentralisation is to give power to the people and in this case, the
+                                project is focused on giving users access to view their records also and much decentralised
+                                since information is encrypted, privacy is ensured and power to the patient is ensured too.
                             </v-card-text>
                         </v-card-item>
                     </v-card>
                 </v-col>
                 <v-col cols="auto" lg="4">
                     <v-card class="mx-auto my-12" max-width="374">
-                        <img src="~/assets/card1.jpg" height="250" cover alt="">
+                        <img src="~/assets/covercard1.jpg" height="250" cover alt="">
                         <v-card-item>
-                            <v-card-title>
-                                Features of Chain Medics
+                            <v-card-title class="text-center">
+                                Data Security
                             </v-card-title>
                             <v-card-text>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed quod corrupti iste. Ad sunt
-                                eveniet cupiditate similique dicta quia enim amet placeat, iusto cumque perspiciatis
-                                deleniti recusandae quibusdam voluptatum excepturi.
+                                The project's emphasis on data security through ZKPs and blockchain technology underscores
+                                its commitment to protecting patient information. This is crucial in the healthcare sector,
+                                where privacy and security are paramount.
                             </v-card-text>
                         </v-card-item>
                     </v-card>
@@ -113,18 +114,12 @@
                         </v-avatar>
                         <v-card-item>
                             <v-card-title class="text-center">
-                                Name of Member
+                                Precious Elisha
                             </v-card-title>
                             <v-card-subtitle class="text-center">
-                                Occupation
+                                Team Lead
                             </v-card-subtitle>
-                            <v-card-text>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex, hic nobis perferendis
-                                dolore
-                                esse saepe vero sit quasi, cum quae in dolores rem laborum maiores possimus? Ipsam
-                                excepturi
-                                molestiae facere?
-                            </v-card-text>
+
                         </v-card-item>
                     </v-card>
                 </v-col>
@@ -135,18 +130,12 @@
                         </v-avatar>
                         <v-card-item>
                             <v-card-title class="text-center">
-                                Name of Member
+                                Brandon Bawuah
                             </v-card-title>
                             <v-card-subtitle class="text-center">
-                                Occupation
+                                Project Manager
                             </v-card-subtitle>
-                            <v-card-text>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex, hic nobis perferendis
-                                dolore
-                                esse saepe vero sit quasi, cum quae in dolores rem laborum maiores possimus? Ipsam
-                                excepturi
-                                molestiae facere?
-                            </v-card-text>
+
                         </v-card-item>
                     </v-card>
                 </v-col>
@@ -157,18 +146,12 @@
                         </v-avatar>
                         <v-card-item>
                             <v-card-title class="text-center">
-                                Name of Member
+                                Francis Duo
                             </v-card-title>
                             <v-card-subtitle class="text-center">
-                                Occupation
+                                Frontend Engineer
                             </v-card-subtitle>
-                            <v-card-text>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex, hic nobis perferendis
-                                dolore
-                                esse saepe vero sit quasi, cum quae in dolores rem laborum maiores possimus? Ipsam
-                                excepturi
-                                molestiae facere?
-                            </v-card-text>
+
                         </v-card-item>
                     </v-card>
                 </v-col>
@@ -179,18 +162,12 @@
                         </v-avatar>
                         <v-card-item>
                             <v-card-title class="text-center">
-                                Name of Member
+                                Redeemer Dela
                             </v-card-title>
                             <v-card-subtitle class="text-center">
-                                Occupation
+                                Backend Engineer
                             </v-card-subtitle>
-                            <v-card-text>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex, hic nobis perferendis
-                                dolore
-                                esse saepe vero sit quasi, cum quae in dolores rem laborum maiores possimus? Ipsam
-                                excepturi
-                                molestiae facere?
-                            </v-card-text>
+
                         </v-card-item>
                     </v-card>
                 </v-col>
@@ -201,18 +178,12 @@
                         </v-avatar>
                         <v-card-item>
                             <v-card-title class="text-center">
-                                Name of Member
+                                Auric Torkornoo
                             </v-card-title>
                             <v-card-subtitle class="text-center">
-                                Occupation
+                                Frontend Engineer
                             </v-card-subtitle>
-                            <v-card-text>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex, hic nobis perferendis
-                                dolore
-                                esse saepe vero sit quasi, cum quae in dolores rem laborum maiores possimus? Ipsam
-                                excepturi
-                                molestiae facere?
-                            </v-card-text>
+
                         </v-card-item>
                     </v-card>
                 </v-col>
