@@ -6,12 +6,12 @@ require("dotenv").config;
 const { formData } = handleSubmit();
 
 const jsonString = JSON.stringify({
-      "Name": formData.Name,
-      "DateOfBirth": formData.DateOfBirth,
-      "BloodType": formData.BloodType,
-      "Allergies": formData.Allergies,
-      "ChronicConditions": formData.ChronicConditions
-    });
+    "Name": formData.Name,
+    "DateOfBirth": formData.DateOfBirth,
+    "BloodType": formData.BloodType,
+    "Allergies": formData.Allergies,
+    "ChronicConditions": formData.ChronicConditions
+});
 
 
 const recordUploads = [
