@@ -1,9 +1,9 @@
-import { handleSubmit } from "../../pages/start.vue";
+// import { handleSubmit } from "../../pages/start.vue";
 const Moralis = require("moralis").default;
 const fs = require("fs");
 require("dotenv").config;
 
-const { formData } = handleSubmit();
+// const { formData } = handleSubmit();
 
 const jsonString = JSON.stringify({
     "Name": formData.Name,
