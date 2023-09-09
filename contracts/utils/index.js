@@ -1,16 +1,16 @@
-import { handleSubmit } from "../../pages/start.vue";
+// import { handleSubmit } from "../../pages/start.vue";
 const Moralis = require("moralis").default;
 const fs = require("fs");
 require("dotenv").config;
 
-const { formData } = handleSubmit();
+// const { formData } = handleSubmit();
 
 const jsonString = JSON.stringify({
-      "Name": formData.Name,
-      "DateOfBirth": formData.DateOfBirth,
-      "BloodType": formData.BloodType,
-      "Allergies": formData.Allergies,
-      "ChronicConditions": formData.ChronicConditions
+      "Name": "formData.Name",
+      "DateOfBirth": "formData.DateOfBirth",
+      "BloodType": "formData.BloodType",
+      "Allergies": "formData.Allergies",
+      "ChronicConditions": "formData.ChronicConditions"
     });
 
 
