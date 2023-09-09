@@ -1,6 +1,6 @@
 
 import { updateAppConfig } from '#app'
-import { defuFn } from '/Users/auric/Development/nuxt-app/chainMedics/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'C:/Users/Stichez/Downloads/code/chainMedics/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 

@@ -1,1 +1,1 @@
-export { default } from "file:///Users/auric/Development/nuxt-app/chainMedics/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///C:/Users/Stichez/Downloads/code/chainMedics/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "/Users/auric/Development/nuxt-app/chainMedics/node_modules/nuxt/dist/app/entry.js": {
+  "C:/Users/Stichez/Downloads/code/chainMedics/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "/Users/auric/Development/nuxt-app/chainMedics/node_modules/nuxt/dist/app/entry.js"
+    "file": "C:/Users/Stichez/Downloads/code/chainMedics/node_modules/nuxt/dist/app/entry.js"
   }
 }
